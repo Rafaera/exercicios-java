@@ -20,7 +20,7 @@ public class Exercicio02 {
         } else if (num < 0) {
             return "E é um número negativo!";
         } else {
-            return "Esse número é 0!";
+            return "E esse número é 0!";
         }
     }
 
